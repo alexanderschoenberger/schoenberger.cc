@@ -10,3 +10,7 @@ body {
     text-align: center;
     min-height: 90vh;
 }
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
